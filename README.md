@@ -1,2 +1,2 @@
 # SUHAIRCUT-TeamApple
-รายวิชา Web-Technology กลุ่ม Apple
+Web-Technology กลุ่ม Apple
