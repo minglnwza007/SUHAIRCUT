@@ -1,2 +1,2 @@
-# SUHAIRCUT-TeamApple
-Web-Technology กลุ่ม Apple
+# SUHAIRCUT
+Web-Technology-TeamApple
